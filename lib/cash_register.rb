@@ -37,4 +37,4 @@ class CashRegister
   end
 
  end 
->>>>>>> 18376149980ce06637c348e882becb0ac64aaeb9
+
